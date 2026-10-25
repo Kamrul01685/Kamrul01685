@@ -25,7 +25,7 @@ class KamrulIslam:
                   "Strategy & Research Intern — CareerSpan",
                   "Business Analyst — Home Planning Development Ltd."]
     research   = ["Clinical NLP", "RAG systems", "Medical imaging", "Federated learning"]
-    languages  = ["English", "Bengali", "Korean"]
+ 
 ```
 
 ---

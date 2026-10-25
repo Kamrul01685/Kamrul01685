@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 ```python
 class KamrulIslam:

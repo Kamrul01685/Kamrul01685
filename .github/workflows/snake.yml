@@ -1,0 +1,31 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "43 */12 * * *"  # every 12 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["README.md"]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-black.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161616,#3a3a3a,#6e6e6e,#a8a8a8,#ffffff
+      - name: Paint the background black
+        run: sed -i '0,/<svg[^>]*>/s//&<rect width="100%" height="100%" fill="#000000"\/>/' dist/snake-black.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -30,7 +30,7 @@ class KamrulIslam:
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,r,mysql,pytorch,tensorflow,sklearn,aws,gcp,docker,git,github,vscode&perline=12&theme=dark"/>
@@ -54,20 +54,20 @@ class KamrulIslam:
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | What it does |
 |---|---|
-| 🧠 [**MedTrustGraph**](https://github.com/Kamrul01685/MedTrustGraph) | Temporal graph + ML framework for trustworthy healthcare AI |
-| 🩺 [**Hybrid Healthcare Disease Detection**](https://github.com/Kamrul01685/Hybrid-healthcare-disease-detection) | Clinical text + structured data for detecting EHR contradictions · **94.3% acc · 93.6% F1 · 98.6% ROC-AUC** |
-| 🏛️ [**NYC Capital Projects**](https://github.com/Kamrul01685/NYC-Capital-Projects) | Rule + NLP pipeline that classifies NYC capital projects as Public Building vs. Infrastructure (NYC Mayor's Office) |
-| 🎬 [**IMDB Sentiment Analytics**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics) | Box Office Mojo scraping + sentiment analysis of IMDB reviews |
-| 🔎 **RAG Prompt Engineering Framework** | 8-step RAG pipeline (intent → NER → SRL → vector search → grounded generation) |
-| 🦙 **Llama-3.1 RAG + PEFT Apps** | Context-aware QA with LangChain on NVIDIA infrastructure |
+|  [**MedTrustGraph**](https://github.com/Kamrul01685/MedTrustGraph) | Temporal graph + ML framework for trustworthy healthcare AI |
+|  [**Hybrid Healthcare Disease Detection**](https://github.com/Kamrul01685/Hybrid-healthcare-disease-detection) | Clinical text + structured data for detecting EHR contradictions · **94.3% acc · 93.6% F1 · 98.6% ROC-AUC** |
+|  [**NYC Capital Projects**](https://github.com/Kamrul01685/NYC-Capital-Projects) | Rule + NLP pipeline that classifies NYC capital projects as Public Building vs. Infrastructure (NYC Mayor's Office) |
+|  [**IMDB Sentiment Analytics**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics) | Box Office Mojo scraping + sentiment analysis of IMDB reviews |
+|  **RAG Prompt Engineering Framework** | 8-step RAG pipeline (intent → NER → SRL → vector search → grounded generation) |
+|  **Llama-3.1 RAG + PEFT Apps** | Context-aware QA with LangChain on NVIDIA infrastructure |
 
 ---
 
-### 🔄 Latest Repositories
+###  Latest Repositories
 <!-- updated automatically every 6 hours by .github/workflows/update-readme.yml -->
 <!-- REPOS:START -->
 | Repository | Description | Language | ⭐ | Updated |
@@ -82,15 +82,15 @@ class KamrulIslam:
 
 ### ⚡ Recent Activity
 <!-- ACTIVITY:START -->
-1. 🆕 Created branch `main` in [Kamrul01685/MedTrustGraph](https://github.com/Kamrul01685/MedTrustGraph) · <sub>18 days ago</sub>
-2. 📝 Pushed 1 commit to [Kamrul01685/MedTrustGraph](https://github.com/Kamrul01685/MedTrustGraph) · <sub>18 days ago</sub>
-3. 📝 Pushed 1 commit to [Kamrul01685/NYC-Capital-Projects](https://github.com/Kamrul01685/NYC-Capital-Projects) · <sub>22 days ago</sub>
-4. 🆕 Created branch `main` in [Kamrul01685/NYC-Capital-Projects](https://github.com/Kamrul01685/NYC-Capital-Projects) · <sub>22 days ago</sub>
+1.  Created branch `main` in [Kamrul01685/MedTrustGraph](https://github.com/Kamrul01685/MedTrustGraph) · <sub>18 days ago</sub>
+2.  Pushed 1 commit to [Kamrul01685/MedTrustGraph](https://github.com/Kamrul01685/MedTrustGraph) · <sub>18 days ago</sub>
+3.  Pushed 1 commit to [Kamrul01685/NYC-Capital-Projects](https://github.com/Kamrul01685/NYC-Capital-Projects) · <sub>22 days ago</sub>
+4.  Created branch `main` in [Kamrul01685/NYC-Capital-Projects](https://github.com/Kamrul01685/NYC-Capital-Projects) · <sub>22 days ago</sub>
 <!-- ACTIVITY:END -->
 
 ---
 
-### 📚 Selected Publications
+###  Selected Publications
 
 - **ConvNeXt-KAN**: Kolmogorov-Arnold Network head for Alzheimer's staging from brain MRI. *Frontiers in AI*, 2026 · [DOI](https://doi.org/10.3389/frai.2026.1903281)
 - **Generative AI for Early Disease Detection**: Hybrid ViT-CNN with multi-head attention. *JISEM*, 2026 · [DOI](https://doi.org/10.52783/jisem.v11i2s.14462)
@@ -104,20 +104,20 @@ class KamrulIslam:
 <summary><b>📖 Book chapter, accepted & ongoing research</b></summary>
 <br/>
 
-- 📖 *Large Language Models for Clinical Text Mining* (IGI Global)
-- ✅ Classifier-Guided Retrieval-Augmented Rationale Generation (*Frontiers in Medicine*, accepted)
-- 🔬 FedCancerNet: federated learning for multi-cancer histopathology
-- 🔬 ClinCon-EHR: rule-based and causal framework for clinical inconsistencies
-- 🔬 DataGuard-MLLM: multimodal data-quality and contradiction detection
+-  *Large Language Models for Clinical Text Mining* (IGI Global)
+-  Classifier-Guided Retrieval-Augmented Rationale Generation (*Frontiers in Medicine*, accepted)
+-  FedCancerNet: federated learning for multi-cancer histopathology
+-  ClinCon-EHR: rule-based and causal framework for clinical inconsistencies
+-  DataGuard-MLLM: multimodal data-quality and contradiction detection
 
 </details>
 
-### 🏅 Certifications
+###  Certifications
 `Oracle OCI Generative AI Professional` · `IBM Data Science & AI in Python` · `NVIDIA Prompt Engineering` · `AWS Data Engineering` · `Google Data Analytics` · `Security & Privacy for Big Data`
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamrul01685&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=222222"/>

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Kamrul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Healthcare%20AI%20Researcher&descSize=18&descAlignY=75&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=760&height=50&lines=MS+Business+Analytics+%40+Fordham+Gabelli+%E2%80%A2+GPA+3.76;LLMs+%E2%80%A2+RAG+%E2%80%A2+PEFT+%E2%80%A2+LangChain+%E2%80%A2+Agentic+AI;7%2B+peer-reviewed+papers+in+ML+%26+Healthcare+AI;Ex-Data+Analyst+Intern+%40+NYC+Office+of+the+Mayor" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=760&height=50&lines=MS+Business+Analytics+%40+Fordham+Gabelli+%E2%80%;LLMs+%E2%80%A2+RAG+%E2%80%A2+PEFT+%E2%80%A2+LangChain+%E2%80%A2+Agentic+AI;7%2B+peer-reviewed+papers+in+ML+%26+Healthcare+AI;Ex-Data+Analyst+Intern+%40+NYC+Office+of+the+Mayor" alt="typing"/>
 
 <a href="https://www.linkedin.com/in/kamrul-islam-ba7b4322b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ki7@fordham.edu"><img src="https://img.shields.io/badge/ki7@fordham.edu-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>

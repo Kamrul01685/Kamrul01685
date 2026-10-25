@@ -70,12 +70,22 @@ class KamrulIslam:
 ### 🔄 Latest Repositories
 <!-- updated automatically every 6 hours by .github/workflows/update-readme.yml -->
 <!-- REPOS:START -->
-_Populating on first workflow run…_
+| Repository | Description | Language | ⭐ | Updated |
+|---|---|---|---|---|
+| [**MedTrustGraph**](https://github.com/Kamrul01685/MedTrustGraph) | A temporal graph and machine learning framework for trustworthy healthcare AI. | — | 0 | 18 days ago |
+| [**NYC-Capital-Projects**](https://github.com/Kamrul01685/NYC-Capital-Projects) | Public Building vs. Infrastructure Classification | — | 0 | 22 days ago |
+| [**Hybrid-healthcare-disease-detection**](https://github.com/Kamrul01685/Hybrid-healthcare-disease-detection) | A machine-learning framework combining clinical text and structured patient data for early disease detection. | Jupyter Notebook | 1 | 78 days ago |
+| [**lkll**](https://github.com/Kamrul01685/lkll) |  | — | 1 | 353 days ago |
+| [**IMDB_sentimental_Analytics**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics) |  | Jupyter Notebook | 1 | 355 days ago |
+| [**IMDB_sentimental_Analytics-**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics-) |  IMDb ratings and box-office  sales | — | 1 | 355 days ago |
 <!-- REPOS:END -->
 
 ### ⚡ Recent Activity
 <!-- ACTIVITY:START -->
-_Populating on first workflow run…_
+1. 🆕 Created branch `main` in [Kamrul01685/MedTrustGraph](https://github.com/Kamrul01685/MedTrustGraph) · <sub>18 days ago</sub>
+2. 📝 Pushed 1 commit to [Kamrul01685/MedTrustGraph](https://github.com/Kamrul01685/MedTrustGraph) · <sub>18 days ago</sub>
+3. 📝 Pushed 1 commit to [Kamrul01685/NYC-Capital-Projects](https://github.com/Kamrul01685/NYC-Capital-Projects) · <sub>22 days ago</sub>
+4. 🆕 Created branch `main` in [Kamrul01685/NYC-Capital-Projects](https://github.com/Kamrul01685/NYC-Capital-Projects) · <sub>22 days ago</sub>
 <!-- ACTIVITY:END -->
 
 ---
@@ -123,6 +133,7 @@ _Populating on first workflow run…_
 </div>
 
 <!-- LAST-UPDATED:START -->
+<p align="center"><sub>🔄 Auto-updated Oct 25, 2026 18:43 UTC</sub></p>
 <!-- LAST-UPDATED:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=110&section=footer" width="100%"/>

@@ -17,13 +17,13 @@
 
 ```python
 class KamrulIslam:
-    role       = "Data Scientist · ML & Generative AI · Healthcare AI Researcher"
-    education  = ["MS Business Analytics — Fordham Gabelli (Dean's Scholar)",
-                  "BBA — Kyungsung University, Busan, South Korea"]
-    experience = ["Data Analyst Intern — NYC Office of the Mayor",
-                  "Graduate Research & Teaching Assistant — AI & Analytics II",
-                  "Strategy & Research Intern — CareerSpan",
-                  "Business Analyst — Home Planning Development Ltd."]
+    role       = Data Scientist · ML & Generative AI · Healthcare AI Researcher
+    education  = MS Business Analytics — Fordham Gabelli (Dean's Scholar)
+                  BBA — Kyungsung University, Busan, South Korea.
+    experience = Data Analyst Intern — NYC Office of the Mayor
+                  Graduate Research & Teaching Assistant — AI & Analytics II
+                  Strategy & Research Intern — CareerSpan
+                  Business Analyst — Home Planning Development Ltd.
     research   = ["Clinical NLP", "RAG systems", "Medical imaging", "Federated learning"]
  
 ```

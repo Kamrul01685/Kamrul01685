@@ -15,7 +15,7 @@
 
 ###  About Me
 
- | role |       = Data Scientist · ML & Generative AI · Healthcare AI Researcher
+    role     = Data Scientist · ML & Generative AI · Healthcare AI Researcher
     education  = MS Business Analytics — Fordham Gabelli (Dean's Scholar)
                   BBA — Kyungsung University, Busan, South Korea.
     experience = Data Analyst Intern — NYC Office of the Mayor

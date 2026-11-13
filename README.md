@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=760&height=50&lines=MS+Business+Analytics+%40+Fordham+Gabelli+%E2%80%;LLMs+%E2%80%A2+RAG+%E2%80%A2+PEFT+%E2%80%A2+LangChain+%E2%80%A2+Agentic+AI;7%2B+peer-reviewed+papers+in+ML+%26+Healthcare+AI;Ex-Data+Analyst+Intern+%40+NYC+Office+of+the+Mayor" alt="typing"/>
 
 <a href="https://www.linkedin.com/in/kamrul-islam-ba7b4322b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?hl=en&amp;user=wUDXgBwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 <a href="mailto:ki7@fordham.edu"><img src="https://img.shields.io/badge/ki7@fordham.edu-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Kamrul01685&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 <a href="https://github.com/Kamrul01685?tab=followers"><img src="https://img.shields.io/github/followers/Kamrul01685?style=for-the-badge&logo=github&label=Followers&color=000000&labelColor=000000"/></a>
@@ -85,6 +86,8 @@ _No recent public activity._
 ---
 
 ###  Selected Publications
+
+📚 Full list and citations on [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=wUDXgBwAAAAJ).
 
 - **ConvNeXt-KAN**: Kolmogorov-Arnold Network head for Alzheimer's staging from brain MRI. *Frontiers in AI*, 2026 · [DOI](https://doi.org/10.3389/frai.2026.1903281)
 - **Generative AI for Early Disease Detection**: Hybrid ViT-CNN with multi-head attention. *JISEM*, 2026 · [DOI](https://doi.org/10.52783/jisem.v11i2s.14462)

@@ -73,10 +73,10 @@
 |---|---|---|---|---|
 | [**MedTrustGraph**](https://github.com/Kamrul01685/MedTrustGraph) | A temporal graph and machine learning framework for trustworthy healthcare AI. | — | 0 | 37 days ago |
 | [**NYC-Capital-Projects**](https://github.com/Kamrul01685/NYC-Capital-Projects) | Public Building vs. Infrastructure Classification | — | 0 | 41 days ago |
-| [**Hybrid-healthcare-disease-detection**](https://github.com/Kamrul01685/Hybrid-healthcare-disease-detection) | A machine-learning framework combining clinical text and structured patient data for early disease detection. | Jupyter Notebook | 1 | 97 days ago |
-| [**lkll**](https://github.com/Kamrul01685/lkll) |  | — | 1 | 372 days ago |
-| [**IMDB_sentimental_Analytics**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics) |  | Jupyter Notebook | 1 | 374 days ago |
-| [**IMDB_sentimental_Analytics-**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics-) |  IMDb ratings and box-office  sales | — | 1 | 374 days ago |
+| [**Hybrid-healthcare-disease-detection**](https://github.com/Kamrul01685/Hybrid-healthcare-disease-detection) | A machine-learning framework combining clinical text and structured patient data for early disease detection. | Jupyter Notebook | 1 | 98 days ago |
+| [**lkll**](https://github.com/Kamrul01685/lkll) |  | — | 1 | 373 days ago |
+| [**IMDB_sentimental_Analytics**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics) |  | Jupyter Notebook | 1 | 375 days ago |
+| [**IMDB_sentimental_Analytics-**](https://github.com/Kamrul01685/IMDB_sentimental_Analytics-) |  IMDb ratings and box-office  sales | — | 1 | 375 days ago |
 <!-- REPOS:END -->
 
 ### ⚡ Recent Activity
@@ -131,7 +131,7 @@ _No recent public activity._
 </div>
 
 <!-- LAST-UPDATED:START -->
-<p align="center"><sub>🔄 Auto-updated Nov 13, 2026 19:39 UTC</sub></p>
+<p align="center"><sub>🔄 Auto-updated Nov 14, 2026 06:19 UTC</sub></p>
 <!-- LAST-UPDATED:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=110&section=footer" width="100%"/>
